@@ -5,7 +5,7 @@ Test environment for Midonet's FIP64 feature
 ## Setup
 
 Add your MDTS name to deploy.sh
-NAME=<your MDTS name>
+MDTS=<your MDTS name>
 
 $ ./deploy.sh
 
